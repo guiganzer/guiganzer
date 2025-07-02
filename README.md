@@ -1,10 +1,5 @@
-- Olá, sou @guiganzer e não gosto de listas:
-- 👀 fiz essa porquê gosto de desafios, como, 
-- nunca ter programado profissionalmente e em alto nível,
-- 🌱 mas ter feito e aprendido coisas que me orgulho com programação,
-- 💞️ e, morrendo de paixão por ela,
-- 📫 voltei com tudo pra seguir pra sempre.
-
-* Daqui a pouco por aqui vai ter meu portifólio e meus contatos nas redes! 
-
-(mentira, listas são lindas :)
+Desenvolvedor Full-Stack com experiência em Infraestrutura e segurança da informação. 
+Cientista da computação em formação com ênfase em Engenharia de dados, machine learning e visão computacional. 
+Buscando uma posição de desenvolvedor ou analista de software para alavancar habilidades e contribuir para projetos inovadores. 
+Busco sempre por aprendizado contínuo, sou paciente, focado e perseverante. 
+Tenho alta capacidade de análise de dados e gerenciamento de grande quantidade de informações,além de possuir um vasta experiência em ferramentas de análise de dados. Meu pensamento é analítico e lógico, além de possuir características marcantes como organização, atenção aos detalhes, capacidade de gerenciar tarefas e cumprir prazos.
